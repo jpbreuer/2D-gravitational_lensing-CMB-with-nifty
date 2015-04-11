@@ -7,3 +7,5 @@ Remember to change the input/output parameters in FlatLensingProblem. Rest of do
 Many thanks to my supervisors Stefan Hilbert and Torsten Enßlin. And of course, this would not have been possible without much imput and guidance from Vanessa Boehm, Maksim Greiner, Marco Selig, and all other members of the research group.
 
 Writen in the summer of 2014 at the Max Planck Institute of Astrophysics, Garching bei Munchen.
+
+TODO: Wiener Filter code should get an overview.
