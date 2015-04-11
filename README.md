@@ -10,8 +10,16 @@ Writen in the summer of 2014 at the Max Planck Institute of Astrophysics, Garchi
 
 TODO: Wiener Filter code should get an overview.
 
-TEST EXAMPLES:
+EXAMPLE (with some more unreasonable dimensions to demonstrate a more obvious effect):
 
+![alt tag](https://raw.github.com/jpbreuer/CMB-2D-grav_lensing-with-nifty/master/output/signal.png)
+
+![alt tag](https://raw.github.com/jpbreuer/CMB-2D-grav_lensing-with-nifty/master/output/Phi.png)
+
+![alt tag](https://raw.github.com/jpbreuer/CMB-2D-grav_lensing-with-nifty/master/output/data.png)
+
+
+TEST EXAMPLE (test in x direction):
 
 ![alt tag](https://raw.github.com/jpbreuer/CMB-2D-grav_lensing-with-nifty/master/testoutput/signal.png)
 
