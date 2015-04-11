@@ -99,7 +99,7 @@ class WienerFilter():
         
     def makePlots_M(self, PowerOnly):
         """
-        Makes plots
+        Makes plots.
         """
     #--- Optional: Reconstructed Map --->
         if (PowerOnly == False):
