@@ -254,7 +254,7 @@ class Testconfig():
     #--- Test --->
         self.test = True #Do not change
     #--- Output Directory --->
-        self.path = '/Volumes/UltraZombie/users/jbreuer/Desktop/mpa-project/final/testoutput'
+        self.path = '/testoutput'
     #--- Define Space Characteristics --->
         self.space ='rg'
         self.pixels = 12        #np.sqrt(12*2048**2).astype(int) # must be odd!
