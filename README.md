@@ -13,11 +13,8 @@ TODO: Wiener Filter code should get an overview.
 TEST EXAMPLES:
 
 
-input signal:
 ![alt tag](https://raw.github.com/jpbreuer/CMB-2D-grav_lensing-with-nifty/master/testoutput/signal.png)
 
-lensing potential:
 ![alt tag](https://raw.github.com/jpbreuer/CMB-2D-grav_lensing-with-nifty/master/testoutput/Phi.png)
 
-output:
 ![alt tag](https://raw.github.com/jpbreuer/CMB-2D-grav_lensing-with-nifty/master/testoutput/result.png)
