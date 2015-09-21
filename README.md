@@ -1,5 +1,5 @@
 # CMB-2D-grav_lensing-with-nifty
-This code does numerical simulations of gravitational lensing of the cosmic microwave background within 2D Cartesian space in Python. Faster than using spherical harmonics, and could be used for the flat-sky approximation.
+This code does numerical simulations of gravitational lensing of the cosmic microwave background within 2D Cartesian space in Python. Faster than using spherical harmonics, and could be used for the flat-sky approximation. Lensing potential can be provided manually, or alternatively, the Navarro-Frenk-White (NFW) Dark Matter halo profile can be used with a True flag in the __init__ class.
 Requires the numerical information field theory (NIFTY) package.
 
 Remember to change the input/output parameters in FlatLensingProblem, in both the config and Testconfig classes. Rest of document should be fairly well documented. Sample input data provided, but feel free to try the test case.
